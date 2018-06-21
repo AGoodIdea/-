@@ -1,0 +1,10 @@
+#myCarousel a{
+    color: #ef6a8a;
+}
+#myCarousel a:hover{
+    color: #c75bb5;
+}
+.mm{
+    width: 300px;
+    height: 300px;
+}
